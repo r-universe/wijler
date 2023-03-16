@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "specs"]
+	path = specs
+	url = https://github.com/wijler/specs
+	shallow = true
+	registered = true
